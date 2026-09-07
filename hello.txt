@@ -1,0 +1,8 @@
+Welcome to My Git Project!
+
+This is my first project using Git and GitHub.
+
+Git helps me track changes in my code.
+GitHub helps me store and share my projects online.
+
+I am learning Git step by step and building my programming skills.
